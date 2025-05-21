@@ -2,7 +2,7 @@
 /*
 Plugin Name: WooCommerce Custom Product Title
 Description: Replaces product title with a custom text field in single product view.
-Version: 1.1b
+Version: 1.1b X
 Author: 32372ok@gmail.com
 */
 
